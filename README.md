@@ -34,3 +34,9 @@ Program her seferinde kullanıcıdan yeni işçi bilgilerini alır ve bu bilgile
 İşçinin çalıştığı saat sayısını girin: 40
 
 Ahmet (kalfa) - Çalışma Saatleri: 40, Maaş: 2000 TL
+
+## İletişim
+
+Hertürlü sorun icin iletişime geçin hatalarım olabilir
+
+discord - leansx
